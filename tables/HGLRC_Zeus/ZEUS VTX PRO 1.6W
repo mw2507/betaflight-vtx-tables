@@ -28,9 +28,24 @@
                     5771,
                     5790,
                     5809,
-                    5828,
+                    5825,
                     5847,
                     5866
+                ]
+            },
+            {
+                "name": "HobbyKing    ",
+                "letter": "E",
+                "is_factory_band": false,
+                "frequencies": [
+                    5705,
+                    5685,
+                    5665,
+                    5645,
+                    5885,
+                    5905,
+                    5925,
+                    5945
                 ]
             },
             {
@@ -63,21 +78,6 @@
                     5917
                 ]
             },
-            {
-                "name": "IMD6    ",
-                "letter": "I",
-                "is_factory_band": false,
-                "frequencies": [
-                    5362,
-                    5399,
-                    5436,
-                    5473,
-                    5510,
-                    5547,
-                    5584,
-                    5621
-                ]
-            }
         ],
         "powerlevels_list": [
             {
